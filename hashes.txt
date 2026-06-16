@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fuego de medianoche
+
+This log tracks the cryptographic history and versioning for the song **Fuego de medianoche** (fuego-de-medianoche).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T22:21:08.362631 | `v1` | `596c231ee6f87346df16cb3636d49ebe01bb97b22594c49571e2f23c220a5be6` | `f986615a5201212e62aeca8a5bf24be95b958ad5fb4057e1c211e3c82b342f99` | `2026-06-16_fuego-de-medianoche-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
