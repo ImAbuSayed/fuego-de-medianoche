@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-de-medianoche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Fuego de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-medianoche/) |
+| **Get License** | [Get a Licensing Quote for Fuego de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-medianoche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú eres mi fuego de medianoche,
+> Brillando sola en medio del derroche.
+> Tus labios piden que yo no me quite,
+> Esta tensión no hay nadie que la evite.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
